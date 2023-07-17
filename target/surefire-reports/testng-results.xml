@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-11T17:43:09 GMT-04:00" name="Surefire suite" finished-at="2023-07-11T17:46:39 GMT-04:00" duration-ms="210763">
+    <groups>
+    </groups>
+    <test started-at="2023-07-11T17:43:09 GMT-04:00" name="Surefire test" finished-at="2023-07-11T17:46:39 GMT-04:00" duration-ms="210763">
+      <class name="com.gmail.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:44:53 GMT-04:00" name="setUp" finished-at="2023-07-11T17:45:06 GMT-04:00" duration-ms="12541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageTitleTest()[pri:1, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:06 GMT-04:00" name="HomePageTitleTest" finished-at="2023-07-11T17:45:06 GMT-04:00" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:06 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:45:07 GMT-04:00" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:07 GMT-04:00" name="setUp" finished-at="2023-07-11T17:45:14 GMT-04:00" duration-ms="7282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageLogoTest()[pri:2, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:14 GMT-04:00" name="HomePageLogoTest" finished-at="2023-07-11T17:45:14 GMT-04:00" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:14 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:45:14 GMT-04:00" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:14 GMT-04:00" name="setUp" finished-at="2023-07-11T17:45:21 GMT-04:00" duration-ms="6777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyForWorkpageTest()[pri:3, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:21 GMT-04:00" name="VerifyForWorkpageTest" finished-at="2023-07-11T17:45:28 GMT-04:00" duration-ms="7135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyForWorkpageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:28 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:45:29 GMT-04:00" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:29 GMT-04:00" name="setUp" finished-at="2023-07-11T17:45:39 GMT-04:00" duration-ms="10078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifySigninPageTest()[pri:4, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:39 GMT-04:00" name="VerifySigninPageTest" finished-at="2023-07-11T17:45:41 GMT-04:00" duration-ms="1731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySigninPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:41 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:45:42 GMT-04:00" duration-ms="1606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:42 GMT-04:00" name="setUp" finished-at="2023-07-11T17:45:50 GMT-04:00" duration-ms="7124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifycresteanaccountPageTest()[pri:5, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:50 GMT-04:00" name="VerifycresteanaccountPageTest" finished-at="2023-07-11T17:45:51 GMT-04:00" duration-ms="1827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifycresteanaccountPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.HomePageTest@501edcf1]" started-at="2023-07-11T17:45:51 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:45:52 GMT-04:00" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gmail.qa.testcases.HomePageTest -->
+      <class name="com.gmail.qa.testcases.ForWorkPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.ForWorkPageTest@10db82ae]" started-at="2023-07-11T17:44:23 GMT-04:00" name="setUp" finished-at="2023-07-11T17:44:35 GMT-04:00" duration-ms="11811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ForWorkPageTitleTest()[pri:1, instance:com.gmail.qa.testcases.ForWorkPageTest@10db82ae]" started-at="2023-07-11T17:44:35 GMT-04:00" name="ForWorkPageTitleTest" finished-at="2023-07-11T17:44:35 GMT-04:00" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForWorkPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.ForWorkPageTest@10db82ae]" started-at="2023-07-11T17:44:35 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:44:36 GMT-04:00" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.ForWorkPageTest@10db82ae]" started-at="2023-07-11T17:44:36 GMT-04:00" name="setUp" finished-at="2023-07-11T17:44:49 GMT-04:00" duration-ms="13367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyOpenPricingPageTest()[pri:2, instance:com.gmail.qa.testcases.ForWorkPageTest@10db82ae]" started-at="2023-07-11T17:44:49 GMT-04:00" name="VerifyOpenPricingPageTest" finished-at="2023-07-11T17:44:52 GMT-04:00" duration-ms="2973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOpenPricingPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.ForWorkPageTest@10db82ae]" started-at="2023-07-11T17:44:52 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:44:53 GMT-04:00" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gmail.qa.testcases.ForWorkPageTest -->
+      <class name="com.gmail.qa.testcases.CreateAccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:43:09 GMT-04:00" name="setUp" finished-at="2023-07-11T17:43:31 GMT-04:00" duration-ms="22042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CreateAccountPageTitleTest()[pri:1, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:43:31 GMT-04:00" name="CreateAccountPageTitleTest" finished-at="2023-07-11T17:43:31 GMT-04:00" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccountPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:43:31 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:43:31 GMT-04:00" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:43:31 GMT-04:00" name="setUp" finished-at="2023-07-11T17:43:48 GMT-04:00" duration-ms="16739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CreatingAccountwithoutfirstnameTest()[pri:2, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:43:48 GMT-04:00" name="CreatingAccountwithoutfirstnameTest" finished-at="2023-07-11T17:43:48 GMT-04:00" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatingAccountwithoutfirstnameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:43:48 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:43:49 GMT-04:00" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:43:49 GMT-04:00" name="setUp" finished-at="2023-07-11T17:44:03 GMT-04:00" duration-ms="14008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CreatingAccountwithnumbersTest()[pri:3, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:44:03 GMT-04:00" name="CreatingAccountwithnumbersTest" finished-at="2023-07-11T17:44:07 GMT-04:00" duration-ms="4043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatingAccountwithnumbersTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:44:07 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:44:08 GMT-04:00" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:44:08 GMT-04:00" name="setUp" finished-at="2023-07-11T17:44:22 GMT-04:00" duration-ms="14611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HeadingTest()[pri:4, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:44:22 GMT-04:00" name="HeadingTest" finished-at="2023-07-11T17:44:22 GMT-04:00" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HeadingTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.CreateAccountPageTest@258e2e41]" started-at="2023-07-11T17:44:22 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:44:23 GMT-04:00" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gmail.qa.testcases.CreateAccountPageTest -->
+      <class name="com.gmail.qa.testcases.SigninPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:45:52 GMT-04:00" name="setUp" finished-at="2023-07-11T17:46:04 GMT-04:00" duration-ms="12196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateSignInPagetitleTest()[pri:1, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:04 GMT-04:00" name="validateSignInPagetitleTest" finished-at="2023-07-11T17:46:04 GMT-04:00" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignInPagetitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:04 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:46:05 GMT-04:00" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:05 GMT-04:00" name="setUp" finished-at="2023-07-11T17:46:13 GMT-04:00" duration-ms="8376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginwithoutusernameTest()[pri:2, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:13 GMT-04:00" name="LoginwithoutusernameTest" finished-at="2023-07-11T17:46:13 GMT-04:00" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwithoutusernameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:13 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:46:14 GMT-04:00" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:14 GMT-04:00" name="setUp" finished-at="2023-07-11T17:46:22 GMT-04:00" duration-ms="8676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginwithspecialcharusernameTest()[pri:3, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:22 GMT-04:00" name="LoginwithspecialcharusernameTest" finished-at="2023-07-11T17:46:24 GMT-04:00" duration-ms="1491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwithspecialcharusernameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:24 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:46:24 GMT-04:00" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:24 GMT-04:00" name="setUp" finished-at="2023-07-11T17:46:38 GMT-04:00" duration-ms="13690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyForgetemailpage()[pri:4, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:38 GMT-04:00" name="verifyForgetemailpage" finished-at="2023-07-11T17:46:39 GMT-04:00" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgetemailpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.gmail.qa.testcases.SigninPageTest@78b729e6]" started-at="2023-07-11T17:46:39 GMT-04:00" name="tearDown" finished-at="2023-07-11T17:46:39 GMT-04:00" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gmail.qa.testcases.SigninPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
